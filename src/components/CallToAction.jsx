@@ -27,16 +27,9 @@ export function CallToAction() {
           <p className="mt-4 text-lg tracking-tight text-white">
             It’s time to take control of your options. Buy or sell building materials with the clients that benefit you the most.
           </p>
-          <Button href="https://ebp-phi.vercel.app/signin" color="white" className="mt-10">
+          <Button href="#" color="white" className="mt-10">
             Sign up now
           </Button>
-          {/* &ensp;&nbsp;
-          <Button href="https://ebp-phi.vercel.app/signin" color="white" className="mt-10">
-            I am a developer
-          </Button>&ensp;&nbsp;
-          <Button href="https://ebp-phi.vercel.app/signin" color="white" className="mt-10">
-            I am a supplier
-          </Button> */}
         </div>
       </Container>
     </section>

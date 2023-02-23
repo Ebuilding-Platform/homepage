@@ -7,10 +7,6 @@ import background from '@/images/background-hero.jpg'
 export function Hero() {
   return (
     <section id="get-started-today"className="relative overflow-hidden py-32">
-      {/* <Image
-        className="absolute top-1/2 left-1/2 object-cover object-center h-full w-full -translate-x-1/2 -translate-y-1/2"
-        src={background}
-      /> */}
 
       <video autoPlay loop muted className="absolute top-1/2 left-1/2 object-cover object-center h-full w-full -translate-x-1/2 -translate-y-1/2">
         <source src="/video/demo.mp4" type="video/mp4"></source>
@@ -37,9 +33,8 @@ export function Hero() {
           A digitial platform for new build visualization, customization, presale and material procurement.
           </p>
           <div className="mt-10 flex justify-center gap-x-6">
-            <Button href="https://ebp-phi.vercel.app/signin">Register Now</Button>
+            <Button href="#">Register Now</Button>
             <Button
-              href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
               variant="outline"
             >
               <svg
@@ -48,7 +43,7 @@ export function Hero() {
               >
                 <path d="m9.997 6.91-7.583 3.447A1 1 0 0 1 1 9.447V2.553a1 1 0 0 1 1.414-.91L9.997 5.09c.782.355.782 1.465 0 1.82Z" />
               </svg>
-              <span className="ml-3">Try 3D Tour</span>
+              <span className="ml-3">Coming Soon</span>
             </Button>
           </div>
         </div>
