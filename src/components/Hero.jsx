@@ -33,8 +33,8 @@ export function Hero() {
           A digitial platform for new build visualization, customization, presale and material procurement.
           </p>
           <div className="mt-10 flex justify-center gap-x-6">
-            <Button href="#">Register Now</Button>
-            <Button
+            <Button href="mailto:helen@ebuilding.ca">Contact Us</Button>
+            {/* <Button
               variant="outline"
             >
               <svg
@@ -44,7 +44,7 @@ export function Hero() {
                 <path d="m9.997 6.91-7.583 3.447A1 1 0 0 1 1 9.447V2.553a1 1 0 0 1 1.414-.91L9.997 5.09c.782.355.782 1.465 0 1.82Z" />
               </svg>
               <span className="ml-3">Coming Soon</span>
-            </Button>
+            </Button> */}
           </div>
         </div>
       </Container>

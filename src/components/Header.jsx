@@ -107,12 +107,13 @@ export function Header() {
             
           </div>
           <div className="flex items-center gap-x-5 md:gap-x-8">
-            <div className="hidden md:block">
+            {/* <div className="hidden md:block">
               <NavLink href="https://ebp-phi.vercel.app/signin">Sign in</NavLink>
-            </div>
+            </div> */}
             <Button href="#" color="indigo">
               <span>
-                Get started <span className="hidden lg:inline">today</span>
+                Coming Soon
+                {/* Get started <span className="hidden lg:inline">today</span> */}
               </span>
             </Button>
             <div className="-mr-1 md:hidden">
