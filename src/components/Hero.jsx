@@ -30,7 +30,7 @@ export function Hero() {
           </h1>
           <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
           {/* Easy to Design - Easy to Build - Easy to Purchase - Easy to Sell */}
-          A digitial platform for new build visualization, customization, presale and material procurement.
+          A digital platform for new build visualization, customization, presale and material procurement.
           </p>
           <div className="mt-10 flex justify-center gap-x-6">
             <Button href="mailto:helen@ebuilding.ca">Contact Us</Button>
