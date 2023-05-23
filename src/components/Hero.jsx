@@ -9,7 +9,7 @@ export function Hero() {
     <section id="get-started-today"className="relative overflow-hidden py-32">
 
       <video autoPlay loop muted className="absolute top-1/2 left-1/2 object-cover object-center h-full w-full -translate-x-1/2 -translate-y-1/2">
-        <source src="/video/demo.mp4" type="video/mp4"></source>
+        <source src="https://ebuilding-public-directory.s3.us-west-2.amazonaws.com/demo.mp4" type="video/mp4"></source>
       </video>
 
       <Container className="pt-24 pb-24 text-center">

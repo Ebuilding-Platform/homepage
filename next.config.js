@@ -4,6 +4,12 @@ const nextConfig = {
   experimental: {
     scrollRestoration: true,
   },
+  images: {
+    domains: [
+      "amazonaws.com"
+    ]
+
+  }
 }
 
 module.exports = nextConfig
