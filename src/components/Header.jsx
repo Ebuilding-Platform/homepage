@@ -112,7 +112,7 @@ export function Header() {
             </div> */}
             <Button href="#" color="indigo">
               <span>
-                Coming Soon
+              <NavLink href="https://ebp.ebuilding.ca">Reqest Demo</NavLink>
                 {/* Get started <span className="hidden lg:inline">today</span> */}
               </span>
             </Button>
