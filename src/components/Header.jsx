@@ -110,9 +110,9 @@ export function Header() {
             {/* <div className="hidden md:block">
               <NavLink href="https://ebp-phi.vercel.app/signin">Sign in</NavLink>
             </div> */}
-            <Button href="#" color="indigo">
+            <Button href="https://ebp.ebuilding.ca" color="indigo">
               <span>
-              <NavLink href="https://ebp.ebuilding.ca">Reqest Demo</NavLink>
+              Request Demo
                 {/* Get started <span className="hidden lg:inline">today</span> */}
               </span>
             </Button>
